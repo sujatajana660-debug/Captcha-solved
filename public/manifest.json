@@ -1,0 +1,16 @@
+{
+  "name": "Captcha solved",
+  "short_name": "Captcha solved",
+  "description": "Captcha solved - Earn coins by solving captchas, 10-digit number puzzles, and image puzzles.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23f59e0b'/><text x='50%' y='65%' font-size='50' font-weight='bold' text-anchor='middle' fill='%23000'>C</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

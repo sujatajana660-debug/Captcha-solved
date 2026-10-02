@@ -1,0 +1,6 @@
+{
+  "name": "Captcha solved",
+  "description": "Earn coins by solving captchas, 10-digit number puzzles, and image puzzles with PropellerAds monetisation and multi-country withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
