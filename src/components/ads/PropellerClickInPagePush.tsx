@@ -46,7 +46,7 @@ const creatives: InPageCreative[] = [
 ];
 
 export const PropellerClickInPagePush: React.FC<PropellerClickInPagePushProps> = ({
-  zoneId = '8492017',
+  zoneId = '11941382',
 }) => {
   const [isVisible, setIsVisible] = useState(false);
   const [creativeIdx, setCreativeIdx] = useState(0);

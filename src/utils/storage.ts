@@ -35,7 +35,7 @@ const defaultPropellerConfig: PropellerConfig = {
   simulationMode: true,
   bannerZoneId: '8492015',
   interstitialZoneId: '8492016',
-  inPagePushZoneId: '8492017',
+  inPagePushZoneId: '11941382',
   popunderZoneId: '8492018',
   publisherId: 'PROP-71932',
 };
